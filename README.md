@@ -1,7 +1,7 @@
 # 🔎 IndexLab — Search Engine From Scratch
 
 A Python search engine showcasing **inverted indexing, TF–IDF weighting, cosine-similarity ranking, dictionary/hash-map retrieval, and heap-based top-K results**. Includes an interactive Streamlit UI, sample corpus, and unit tests.
-deployes at: https://document-search-engine-ywzdxbnp6r5mc4jf9u74gw.streamlit.app/ 
+deployed at: https://document-search-engine-ywzdxbnp6r5mc4jf9u74gw.streamlit.app/ 
 ## Run locally
 
 Prerequisites: Python 3.10+ and pip.
