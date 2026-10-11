@@ -1,6 +1,6 @@
 # 🔎 IndexLab — Search Engine From Scratch
 
-A deployable Python search engine showcasing **inverted indexing, TF–IDF weighting, cosine-similarity ranking, dictionary/hash-map retrieval, and heap-based top-K results**. Includes an interactive Streamlit UI, sample corpus, and unit tests.
+A Python search engine showcasing **inverted indexing, TF–IDF weighting, cosine-similarity ranking, dictionary/hash-map retrieval, and heap-based top-K results**. Includes an interactive Streamlit UI, sample corpus, and unit tests.
 
 ## Run locally
 
@@ -72,7 +72,3 @@ requirements.txt                Runtime dependencies
 - Scanned/image-only PDFs need OCR before their text can be indexed.
 - There is no persistent database, authentication, crawler, or distributed sharding.
 - Extensions: BM25 ranking, typo tolerance, persistent SQLite storage, ingestion pipelines, caching, API endpoints, or distributed indexing.
-
-## Resume-ready description
-
-**Search Engine** — Built a full-stack interactive document search application using a custom inverted index and TF–IDF cosine-similarity ranking. Implemented hash-based term retrieval, Boolean multi-keyword matching, and heap-based top-K results; deployed with Streamlit.
